@@ -21,7 +21,7 @@ hobbies: [🪻 Badminton, 🚴‍♂️ Cycling, 🎮 Game Design, 🎨 3D Art &
 quote: "I debug systems like I sculpt code — precise and powerful."
 
 ```
-
+<p align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=svippu&show_icons=true&theme=highcontrast&title_color=FF4500&icon_color=FFD700&bg_color=0D1117&hide_border=true" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svippu&layout=compact&theme=highcontrast&title_color=FF4500&bg_color=0D1117&hide_border=true" /> </p>
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,java,cpp,linux,aws,docker,kafka,react,matlab,mysql,git,tensorflow,arduino,blender,ps,ai,xd,figma&perline=9" /> </p> 
 <p align="center"> <img src="https://img.shields.io/badge/3ds%20Max-7019A4?logo=autodesk&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/SketchUp-97188A?logo=sketchup&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/Blender-B559C3?logo=blender&logoColor=white&style=for-the-badge"/> 
 </p>  <p align="center"> <a href="https://linkedin.com/in/svippu"> <img src="https://img.shields.io/badge/LinkedIn-Connect-7019A4?style=for-the-badge&logo=linkedin"/> </a> <a href="mailto:svippu@example.com"> <img src="https://img.shields.io/badge/Email-Say Hi-9F0162?style=for-the-badge&logo=gmail"/> </a> <a href="https://svippu.github.io"> <img src="https://img.shields.io/badge/Portfolio-Explore-97188A?style=for-the-badge&logo=firefox"/> </a> </p> 
