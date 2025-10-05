@@ -18,7 +18,7 @@ role: 🌌  Computer Engineering Student @ UOttawa
 passion: [🔮 FPGA for High-Speed Trading, 🦾 Smart Assistive Devices, 🪻 AI/ML Edge Systems]
 current_focus: "Building elegant high-performance hardware & creative apps — Smart Cane 🚶‍♂️🌌  & Data Pipelines 🚀"
 hobbies: [🪻 Badminton, 🚴‍♂️ Cycling, 🎮 Game Design, 🎨 3D Art & Modelling]
-quote: "I debug systems like I sculpt code — precise and powerful."
+
 
 ```
 <p align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=svippu&show_icons=true&theme=highcontrast&title_color=FF4500&icon_color=FFD700&bg_color=0D1117&hide_border=true" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svippu&layout=compact&theme=highcontrast&title_color=FF4500&bg_color=0D1117&hide_border=true" /> </p>
