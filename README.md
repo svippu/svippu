@@ -12,7 +12,7 @@
 
 ---
 
-## 🌌 About Me
+## 🌌 About Me:
 ```yaml
 role: 🌌  Computer Engineering Student @ UOttawa
 passion: [🔮 FPGA for High-Speed Trading, 🦾 Smart Assistive Devices, 🪻 AI/ML Edge Systems]
